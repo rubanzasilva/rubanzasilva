@@ -1,2 +1,2 @@
 # rubanzasilver
-A short description about myself
+My bio
